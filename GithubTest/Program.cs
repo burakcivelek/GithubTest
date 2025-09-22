@@ -14,6 +14,8 @@ namespace GithubTest
             Console.ReadLine();
 
             //Selam Burak nasıl gidiyor?
+
+            //Sagolun hocam.Siz nasılsınız?
         }
     }
 }
